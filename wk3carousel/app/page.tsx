@@ -1,7 +1,6 @@
+'use client';
 import "bootstrap/dist/css/bootstrap.min.css";
 import { useRef, useState } from "react";
-
-'use client';
 //import 'bootstrap/dist/js/bootstrap.bundle.min.js'; // Ensure Bootstrap JS is loaded
 
 const images = [
